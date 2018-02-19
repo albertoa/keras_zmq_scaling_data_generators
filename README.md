@@ -29,16 +29,16 @@ Note that downloading the flickr images can take several attempts. Also, any fil
 
 Gleb's URLs for the Motorola-Droid-Maxx include images that are named the same: Motorola-DROID-MAXX-Sample-Images.jpg After Downloading them you need to rename them from the suffix based naming given by wget to something that preserves the suffix as .jpg Here is what I did:
 
-  Motorola-DROID-MAXX-Sample-Images-10.jpg
-  Motorola-DROID-MAXX-Sample-Images-1.jpg
-  Motorola-DROID-MAXX-Sample-Images-2.jpg
-  Motorola-DROID-MAXX-Sample-Images-3.jpg
-  Motorola-DROID-MAXX-Sample-Images-4.jpg
-  Motorola-DROID-MAXX-Sample-Images-5.jpg
-  Motorola-DROID-MAXX-Sample-Images-6.jpg
-  Motorola-DROID-MAXX-Sample-Images-7.jpg
-  Motorola-DROID-MAXX-Sample-Images-8.jpg
-  Motorola-DROID-MAXX-Sample-Images-9.jpg
+  * Motorola-DROID-MAXX-Sample-Images-1.jpg
+  * Motorola-DROID-MAXX-Sample-Images-2.jpg
+  * Motorola-DROID-MAXX-Sample-Images-3.jpg
+  * Motorola-DROID-MAXX-Sample-Images-4.jpg
+  * Motorola-DROID-MAXX-Sample-Images-5.jpg
+  * Motorola-DROID-MAXX-Sample-Images-6.jpg
+  * Motorola-DROID-MAXX-Sample-Images-7.jpg
+  * Motorola-DROID-MAXX-Sample-Images-8.jpg
+  * Motorola-DROID-MAXX-Sample-Images-9.jpg
+  * Motorola-DROID-MAXX-Sample-Images-10.jpg
 
 ## Running
 
