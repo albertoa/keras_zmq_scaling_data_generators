@@ -45,10 +45,9 @@ params = {
     ,"train_zmq_port": 11000
 
     # Training batch size
-    #,"batch_size": 36
-    ,"batch_size": 4
+    ,"batch_size": 36
     # Number of epochs to train for
-    ,"epochs": 2
+    ,"epochs": 20
     # Starting learning rate
     ,"lr": 1e-2
     # Momemtum
@@ -64,8 +63,7 @@ params = {
     ,"patch_depth": 3
 
     # Total number of image patches we want to train on per epoch
-    #,"train_numimages": 10800
-    ,"train_numimages": 4 * 2
+    ,"train_numimages": 7200
     # Total number of image patches we want to validate per epoch
     ,"val_numimages": 300
 }
